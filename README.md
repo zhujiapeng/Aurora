@@ -14,7 +14,7 @@
 ## BibTeX
 
 ```bibtex
-@article{zhu2022linkgan,
+@article{zhu2023aurora,
   title   = {Exploring Sparse {MoE} in GANs for Text-conditioned Image Synthesis},
   author  = {Zhu, Jiapeng and Yang, Ceyuan and Zheng, Kecheng and Xu, Yinghao and Shi, Zifan and Shen, Yujun},
   journal = {arXiv:},
