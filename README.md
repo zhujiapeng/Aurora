@@ -15,9 +15,9 @@
 
 ```bibtex
 @article{zhu2022linkgan,
-  title   = {LinkGAN: Linking {GAN} Latents to Pixels for Controllable Image Synthesis},
-  author  = {Zhu, Jiapeng and Yang, Ceyuan and Shen, Yujun and Shi, Zifan and Zhao, Deli and Chen, Qifeng},
-  journal = {arXiv:2301.04604},
-  year    = {2022}
+  title   = {Exploring Sparse {MoE} in GANs for Text-conditioned Image Synthesis},
+  author  = {Zhu, Jiapeng and Yang, Ceyuan and Zheng, Kecheng and Xu, Yinghao and Shi, Zifan and Shen, Yujun},
+  journal = {arXiv:},
+  year    = {2023}
 }
 ```
