@@ -3,7 +3,7 @@
 
 > **Exploring Sparse MoE in GANs for Text-conditioned Image Synthesis** <br>
 > Jiapeng Zhu*, Ceyuan Yang*, Kecheng Zheng, Yinghao Xu, Zifan Shi, Yujun Shen <br>
-> *arXiv preprint arXiv:2309.03904 <be>
+> *arXiv preprint arXiv:2309.03904* <be>
     
 ## Syntheized Results
 
